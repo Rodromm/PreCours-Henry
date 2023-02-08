@@ -1,2 +1,1 @@
-# PreCours-Henry
-este es un repo de prueba
+Este proyecto es una prueba de clonar repos
